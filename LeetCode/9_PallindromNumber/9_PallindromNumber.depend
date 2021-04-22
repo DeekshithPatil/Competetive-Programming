@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619005289 source:g:\competetive-programming\leetcode\9_pallindromnumber\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
