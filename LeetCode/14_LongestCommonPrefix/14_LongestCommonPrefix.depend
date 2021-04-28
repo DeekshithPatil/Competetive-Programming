@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619176164 source:g:\competetive-programming\leetcode\14_longestcommonprefix\main.c
+	<stdio.h>
+	<stdlib.h>
+
