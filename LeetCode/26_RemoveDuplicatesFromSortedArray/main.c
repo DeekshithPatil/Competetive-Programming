@@ -21,7 +21,7 @@ int main()
 
 int removeDuplicates(int* nums, int numsSize)
 {
-    //int temp1,temp2;
+
     int repeatedCounter = 0;
 
     for(int i=0;i<numsSize;i++)
