@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1619880132 source:g:\competetive-programming\leetcode\26_removeduplicatesfromsortedarray\main.c
+	<stdio.h>
+	<stdlib.h>
+
