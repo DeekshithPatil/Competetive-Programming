@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620048973 source:g:\competetive-programming\leetcode\27_removeelement\main.c
+	<stdio.h>
+	<stdlib.h>
+
