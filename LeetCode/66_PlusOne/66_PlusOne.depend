@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620297781 source:g:\competetive-programming\leetcode\66_plusone\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
