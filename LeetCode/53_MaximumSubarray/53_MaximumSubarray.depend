@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620236039 source:g:\competetive-programming\leetcode\53_maximumsubarray\main.c
+	<stdio.h>
+	<stdlib.h>
+
