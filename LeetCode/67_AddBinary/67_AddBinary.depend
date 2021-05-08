@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620476203 source:g:\competetive-programming\leetcode\67_addbinary\main.c
+	<stdio.h>
+	<stdlib.h>
+
